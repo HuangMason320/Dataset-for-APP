@@ -7,7 +7,7 @@
       "date": 15,
       "description": "A variety of fresh green vegetables.",
       "price": 2.99,
-      "imageURL": "http://example.com/vegetables.jpg",
+      "imageURL": "https://github.com/HuangMason320/Dataset-for-APP/blob/main/Vegetable.png",
       "calories": 50,
       "protein": 3,
       "carbs": 10,
@@ -21,7 +21,7 @@
       "date": 20,
       "description": "High-quality beef, perfect for grilling.",
       "price": 10.99,
-      "imageURL": "http://example.com/beef.jpg",
+      "imageURL": "https://github.com/HuangMason320/Dataset-for-APP/blob/main/Beef.png",
       "calories": 250,
       "protein": 26,
       "carbs": 0,
@@ -35,7 +35,7 @@
       "date": 25,
       "description": "Fresh pork, ideal for various recipes.",
       "price": 8.99,
-      "imageURL": "http://example.com/pork.jpg",
+      "imageURL": "https://github.com/HuangMason320/Dataset-for-APP/blob/main/Pork.png",
       "calories": 242,
       "protein": 22,
       "carbs": 0,
@@ -49,7 +49,7 @@
       "date": 30,
       "description": "Lean and tender chicken breast.",
       "price": 7.99,
-      "imageURL": "http://example.com/chicken.jpg",
+      "imageURL": "https://github.com/HuangMason320/Dataset-for-APP/blob/main/Chicken.png",
       "calories": 165,
       "protein": 31,
       "carbs": 0,
@@ -63,7 +63,7 @@
       "date": 5,
       "description": "Fresh fish, rich in omega-3 fatty acids.",
       "price": 9.99,
-      "imageURL": "http://example.com/fish.jpg",
+      "imageURL": "https://github.com/HuangMason320/Dataset-for-APP/blob/main/Fish.png",
       "calories": 200,
       "protein": 20,
       "carbs": 0,
@@ -77,13 +77,13 @@
         "date": 31,
         "description": "A fresh and juicy apple.",
         "price": 0.99,
-        "imageURL": "http://example.com/apple.jpg",
+        "imageURL": "https://github.com/HuangMason320/Dataset-for-APP/blob/main/Apple.png",
         "calories": 95,
         "protein": 0,
         "carbs": 25,
         "amount": 1
-      },
-      {
+    },
+    {
         "id": 7,
         "name": "Banana",
         "year": "2024",
@@ -91,13 +91,13 @@
         "date": 15,
         "description": "A ripe banana, full of energy.",
         "price": 0.49,
-        "imageURL": "http://example.com/banana.jpg",
+        "imageURL": "https://github.com/HuangMason320/Dataset-for-APP/blob/main/Banana.png",
         "calories": 105,
         "protein": 1,
         "carbs": 27,
         "amount": 1
-      },
-      {
+    },
+    {
         "id": 8,
         "name": "Orange",
         "year": "2024",
@@ -105,11 +105,10 @@
         "date": 20,
         "description": "A sweet and tangy orange.",
         "price": 0.89,
-        "imageURL": "http://example.com/orange.jpg",
+        "imageURL": "https://github.com/HuangMason320/Dataset-for-APP/blob/main/Orange.png",
         "calories": 62,
         "protein": 1,
         "carbs": 15,
         "amount": 1
-      }
-  ]
-  
+    }
+]
